@@ -1,6 +1,8 @@
 # Troubleshooting-Experience-Linux
 <h3>My experience troublshooting issues within linux distros</h3>
 
+<h2>SSH</h2>
+
 - <b2> 1) I fail at my attempt to SSH into my linux server as shown by the "Connection timed out message"</b2>
 - <b2> 2) I fail at my attempt to ping the server's IP address, which may mean my server's cutoff from the internet or may be unreachable.</b2>
     - <b2> I am able to reach the outside internet from my server via inputting the "sudo apt update" command and it returning available software packages for download.</b2>
